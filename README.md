@@ -11,7 +11,7 @@ and returns a final, accurate result.
 
 This demonstrates a distributed, partially replicated system, not a centralized database.
 
-System Architecture
+Architecture
   Client (client.py)
   Sends user queries to a server.
   Server A & Server B (server.py)
