@@ -80,7 +80,6 @@ Step 2 — Start the client
   
 Step 3 — Run queries
   The client supports exactly three queries:
-  
-  Average fridge moisture (hour/week/month)
-  Average dishwasher water consumption (hour/week/month)
-  Electricity usage comparison (last 24 hours)
+    - Average fridge moisture (hour/week/month)
+    - Average dishwasher water consumption (hour/week/month)
+    - Electricity usage comparison (last 24 hours)
